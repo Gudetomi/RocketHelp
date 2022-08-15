@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "336319047014",
+    "project_id": "ignitelab-f39a6",
+    "storage_bucket": "ignitelab-f39a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336319047014:android:51d9915cc82fc3e73a94a7",
+        "android_client_info": {
+          "package_name": "com.gudetomi.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336319047014-es0ee1v902cmr7t444earajf4drl61do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmkD3txLjwHr_FWZ_prjrEMV7SWlsQss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336319047014-es0ee1v902cmr7t444earajf4drl61do.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336319047014-6amv7pr52cm6kmp8cfmeeltdbtr6i7sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gudetomi.reactapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

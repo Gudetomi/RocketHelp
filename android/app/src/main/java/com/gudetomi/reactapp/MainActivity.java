@@ -1,4 +1,4 @@
-package com.reactapp;
+package com.gudetomi.reactapp;
 
 import android.os.Build;
 import android.os.Bundle;

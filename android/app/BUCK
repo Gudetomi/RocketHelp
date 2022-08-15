@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.reactapp",
+    package = "com.gudetomi.reactapp",
 )
 
 android_resource(
     name = "res",
-    package = "com.reactapp",
+    package = "com.gudetomi.reactapp",
     res = "src/main/res",
 )
 
